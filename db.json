@@ -3,32 +3,38 @@
     {
       "label": "Name",
       "field": "name",
-      "sort": "asc"
+      "sort": "asc",
+      "width": 150
     },
     {
       "label": "Position",
       "field": "position",
-      "sort": "asc"
+      "sort": "asc",
+      "width": 270
     },
     {
       "label": "Office",
       "field": "office",
-      "sort": "asc"
+      "sort": "asc",
+      "width": 200
     },
     {
       "label": "Age",
       "field": "age",
-      "sort": "asc"
+      "sort": "asc",
+      "width": 100
     },
     {
       "label": "Start date",
       "field": "date",
-      "sort": "asc"
+      "sort": "asc",
+      "width": 150
     },
     {
       "label": "Salary",
       "field": "salary",
-      "sort": "asc"
+      "sort": "asc",
+      "width": 100
     }
   ],
   "rows": [
